@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/apotheosis/adventure.cfg"
+hash = "fa35fa74e2b9cc35d75e282303409a2f525fa34906e4e7f5fb181065df787fed"
+
+[[files]]
+file = "config/apotheosis/apotheosis.cfg"
+hash = "4b5f0f006c33d792143468e3e48a09f1a38ce6f59581baf376d73f1fa2f3afd7"
+
+[[files]]
 file = "mods/Quark-4.0-beta-423.jar"
 hash = "db7ff8a445d5553e1e4209a516406be111c159b073be7ffb4aac6ac2a942d34a"
 
@@ -157,6 +165,11 @@ metafile = true
 [[files]]
 file = "mods/equipment-compare.pw.toml"
 hash = "cdb3264f8574d9d86808425a47461fe4b2e1cc1295cec727a3fc93d3b88cbee4"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "50056479cbf8921db75cc5490dd52f8420fd4492dfe2e31ce90460b29e21057e"
 metafile = true
 
 [[files]]
