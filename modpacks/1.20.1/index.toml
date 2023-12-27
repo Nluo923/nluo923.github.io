@@ -9,10 +9,6 @@ file = "config/apotheosis/apotheosis.cfg"
 hash = "4b5f0f006c33d792143468e3e48a09f1a38ce6f59581baf376d73f1fa2f3afd7"
 
 [[files]]
-file = "jank/Quark-4.0-beta-423.jar"
-hash = "db7ff8a445d5553e1e4209a516406be111c159b073be7ffb4aac6ac2a942d34a"
-
-[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "4e3c00126f658d3b565d4fdafd2114a0e7a60a659b0742e0e53ffd68819587f3"
 metafile = true
@@ -260,11 +256,6 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "6ecef50adee11c1e2cc95436846653632af4977045be8496529976ab3aba7323"
-metafile = true
-
-[[files]]
-file = "mods/quark.pw.toml"
-hash = "49e59ec8e6bb777268b459807146c847832b18424416cc4b0a44e2dde2afbb27"
 metafile = true
 
 [[files]]

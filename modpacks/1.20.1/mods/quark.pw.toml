@@ -1,8 +1,0 @@
-name = "Quark"
-filename = "Quark-4.0-beta-423.jar"
-side = "both"
-
-[download]
-url = "https://github.com/VazkiiMods/Quark/actions/runs/7336178785/artifacts/1136045531"
-hash-format = "sha1"
-hash = "e2876b76f5300fecd6f7630b20c2a0577f172400"
