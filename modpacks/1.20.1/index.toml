@@ -68,11 +68,6 @@ hash = "e2695fd8d95e6d79759a4b54107a8a2038172a14f6a12fd728fda45a001cd462"
 metafile = true
 
 [[files]]
-file = "mods/canary.pw.toml"
-hash = "d51e39d7e8f98d69510ced0757b95cc77c431799d086245ac9b46e5bdeca61f2"
-metafile = true
-
-[[files]]
 file = "mods/chalk.pw.toml"
 hash = "d037b07ff33f25d19ad4e8f77409e7901838b0a9e00b5c01eb531692d6e20944"
 metafile = true
