@@ -9,6 +9,11 @@ file = "config/apotheosis/apotheosis.cfg"
 hash = "4b5f0f006c33d792143468e3e48a09f1a38ce6f59581baf376d73f1fa2f3afd7"
 
 [[files]]
+file = "mods/aether.pw.toml"
+hash = "4a89308a4115842a8912c11d8a3d40a2b9fbd47584d474bd53919717281100fd"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "4e3c00126f658d3b565d4fdafd2114a0e7a60a659b0742e0e53ffd68819587f3"
 metafile = true
