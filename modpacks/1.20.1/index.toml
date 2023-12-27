@@ -263,6 +263,11 @@ hash = "6ecef50adee11c1e2cc95436846653632af4977045be8496529976ab3aba7323"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "3912ca0ffb0de705f2687e7d2c987dc7f3858a1acc17b0158dfae928787b12fb"
+metafile = true
+
+[[files]]
 file = "mods/radium.pw.toml"
 hash = "fd2c664fa12ed30ff71cf58cbc9e32265cd92b892640ff9bb415e924f48fb942"
 metafile = true
