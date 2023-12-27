@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/apotheosis/adventure.cfg"
-hash = "fa35fa74e2b9cc35d75e282303409a2f525fa34906e4e7f5fb181065df787fed"
+hash = "588c472e0280442f1146fe7922ab952a7e61d477fad70c87b5cbb86e8e61d56e"
 
 [[files]]
 file = "config/apotheosis/apotheosis.cfg"
