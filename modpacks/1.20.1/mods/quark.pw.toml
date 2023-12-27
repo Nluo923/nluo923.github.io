@@ -3,6 +3,6 @@ filename = "Quark-4.0-beta-423.jar"
 side = "both"
 
 [download]
-url = "https://nluo923.github.io/modpacks/1.20.1/mods/Quark-4.0-beta-423.jar"
+url = "https://nluo923.github.io/modpacks/1.20.1/jank/Quark-4.0-beta-423.jar"
 hash-format = "sha256"
 hash = "b607898ccf9a2aad0ab34b404a196f4f0c9b73c4cd140de1213517b69eeb20c4"

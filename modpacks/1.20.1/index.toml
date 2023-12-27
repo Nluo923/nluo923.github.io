@@ -9,7 +9,7 @@ file = "config/apotheosis/apotheosis.cfg"
 hash = "4b5f0f006c33d792143468e3e48a09f1a38ce6f59581baf376d73f1fa2f3afd7"
 
 [[files]]
-file = "mods/Quark-4.0-beta-423.jar"
+file = "jank/Quark-4.0-beta-423.jar"
 hash = "db7ff8a445d5553e1e4209a516406be111c159b073be7ffb4aac6ac2a942d34a"
 
 [[files]]
@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/quark.pw.toml"
-hash = "3912ca0ffb0de705f2687e7d2c987dc7f3858a1acc17b0158dfae928787b12fb"
+hash = "49e59ec8e6bb777268b459807146c847832b18424416cc4b0a44e2dde2afbb27"
 metafile = true
 
 [[files]]
