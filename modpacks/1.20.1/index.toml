@@ -99,6 +99,11 @@ hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "b6397a26aec2794a006ba9033f5b114c241e88bf80fe82937cb57d2b39e333d9"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "28cd35abd7f84a4d2f04fb50128bf272cafeac126dbdd6c20cb9c27eb0cd3d76"
 metafile = true
@@ -204,6 +209,11 @@ hash = "2f642ad048cb3ba04ffede51488ca1d403bb4a1d7fcd651a48d31d9c162234f5"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "21964bfd2ab6c9afcdad8b2e5d873b3eeb65691d21913d21e1d6a36f4ec925db"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "76a9cf429fc6f4a8fff40b535406ae0da96940d7e1f0b80b8dcd3744f0e5e8ac"
 metafile = true
@@ -225,12 +235,17 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "fab49ce0c16fa78f71c7b39d23a4318055598f1cee0a964781f3b56801e2ed44"
+hash = "826c59a1e607641acb85f1e23a2bb7183a2f0a9ccd19ea4f01bbc9d94d480acf"
 metafile = true
 
 [[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "dd308454a6708e915735523e3ccbf6be4893ff9c7ca737d2f9ccf745fffd6835"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "e124c9b28a45af3d7f401f71d526b5e18cc5ec90b31208cd7f0f7555b0d17df1"
 metafile = true
 
 [[files]]
@@ -294,6 +309,11 @@ hash = "5a1192528bb03cab00ab6d81bffd6f89faa653b5385b8e1c03963c4d78e287e3"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "418fdfaeafeeb7822ad568549418eeab81052638035035df8e97a6212c091f55"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "2c6133bbbfa2783e58b52a7670458781f1d51a0ccc82c56a582410ba3266bc43"
 metafile = true
@@ -306,6 +326,11 @@ metafile = true
 [[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "f343ca4469e393d4055137a1dc228441a80be2a755d634001e037837dd7a56b6"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "31626883de5442b6877c77fdde94e1ea16d3915d6e7dbcf51b81be7483a16ed3"
 metafile = true
 
 [[files]]
