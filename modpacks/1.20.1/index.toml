@@ -194,6 +194,11 @@ hash = "2aeab43f8b457417a4a91782cf1b3fa9de2c06a522e83e6555355c708d2c935e"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "babf88b04734726c32a96659a0392b970ccc8f98d66d68978ef10c9211b8ffce"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "1fcc22fe33c8d9131420e53ac410018c81d529295fee68694a41ba72bb3bb2a8"
 metafile = true
